@@ -1,0 +1,224 @@
+[Sport] Comment appelle-t-on un vélo actionné par deux personnes l'une derrière l'autre ?\Un tandem\tandem
+[Sport] Depuis quand les sauteurs en hauteur franchissent-ils la barre sur le dos ?\1968
+[Sport] Quelle est le nom du copilote du plus titré des pilotes de Railye ?\Daniel Elena\elena
+[Sport] Quel symbole indique à un cycliste qu'il reste un kilomètre de course avant l'arrivée ?\Une flamme rouge\flamme rouge
+[Sport] En cricket, combien de temps de jeu peut durer un test match ?\30 Heures\30h\30 h\trentes heures
+[Sport] Quel joueur de football brésilien a remporté 2 fois la Coupe du monde en tant que joueur et une fois en tant qu'entraîneur ?\Mario Zagallo\zagallo
+[Sport] A quel genre de ski appartiennent la descente et le slalom géant : Le ski Alpin ou le ski nautique ?\Le ski Alpin\ski alpin\alpin
+[Sport] En NBA, combien de fautes peut commettre un joueur avant d'être exclu du match ?\6\six
+[Sport] Au volley, quel joueur ne porte pas le même maillot que ses coéquipiers ?\Le libéro\le libero\libero\libéro
+[Sport] Dans quel sport s'illustre le club des Canadiens de Montréal ?\Le hockey sur glace\hockey sur glace\le hockey\hockey
+[Sport] Quel footballeur a terminé 3 fois d'affilée meilleur buteur du championnat d'Angleterre entre 2004 et 2006\Thierry Henry\henry
+[Sport] Recordman absolu de victoire sur le Tour de France.\Lance Armstrong\armstrong
+[Sport] Quelle course de voile determine le challenger qui sera opposé au défenseur de la coupe de l'America ?\La Coupe Louis Vuitton\Coupe louis vuitton\louis vuitton
+[Sport] Quel cours d'eau traverse l'Irak ?\L'Euphrate\Le Tigre\euphrate\tigre
+[Sport] Quel boxeur americain fut le premier à être sacré champion du monde des poids lourds ?\Jack Dempsey\dempsey\j dempsey\j. dempsey
+[Sport] Qui fut président du comité international olympique de 1980 à 2001 ?\Juan Antonio Samaranch\samaranch
+[Sport] En 2008, quel pays fut à l'origine de l'annulation du Paris-Dakar ?\La Mauritanie\mauritanie
+[Sport] Quel est le seul boxer francais à avoir été champoion du monde dans 2 catégories différentes ?\Fabrice Tiozzo\Tiozzo
+[Sport] Parmis ces employés et bénévoles de Roland-Garros, quel métier en regroupe le plus grand nombre ?\Les arbitres\arbitres\arbitre
+[Sport] Quel joueur a remporté l'US Open en 1952 ?\Frank Sedgman\sedgman
+[Sport] Quelle joueuse de tennis a remporté le tournois de l'US Open en 1953 ?\Maureen Connolly\connolly
+[Sport] De quelle origine est l'art martial Taekwondo ?\Coréenne\coreenne
+[Sport] Quel nageur a remporté le plus grand nombre de médailles lors des championnats d'Euro 2012 en petit bassin ?\Jérémy Stravius\jeremy stravius\jéremy stravius\jerémy stravius\stravius
+[Sport] Quel sportifs portent des casaques ?\Les jockeys\jockeys\jockey
+[Sport] Quelle est la couleur de la ceinture d'un judoka ayant atteint le 9ème dan ?\Rouge
+[Sport] Le 14 octobre 2012, Felix Baumgartner a sauté en parachute depuis quelle altitude (en km) record ?\39 km\39km\39
+[Sport] Depuis 2002 (et jusqu'en 2012), quelle est la seule équipe de handball ? part Montpellier à avoir remporté le championnat de france ?\Ivry
+[Sport] Qui fut le premier skieur alpin à conserver un titre Olympique ?\Alberto Tomba\Tomba
+[Sport] En basket, quel joueur est censé être situé le plus près du panier quand le jeu est en place ?\Le pivot\pivot
+[Sport] Contre quel club de foot l'AS st-etienne a perdu en final de coupe d'europe en 76 ?\Le Bayern de Munich\bayern\bayern de munich
+[Sport] Quel est l'autre nom de la boxe française ?\La savate\savate
+[Sport] En golf, quel terme désigne le fait de réussir un trou en deux coups en dessous du par ?\Eagle
+[Sport] En golf, quel terme désigne le fait de réussir un trou en un coup en dessous du par ?\Birdy
+[Sport] En golf, quel terme désigne le fait de réussir un trou en un coup en dessus du par ?\Bogey
+[Sport] Qui détenait le record du nombre de médailles obtenues aux J.O. avant que ce record soit battu à Londres en 2012 ?\Larissa Latynina
+[Sport] Quel âge avait Michael Phelps quand il a établi son premier record du monde de natation ?\15 ans\15ans\15
+[Sport] Au tournoi de tennis de Roland Garros, quand change-t-on les balles ?\Tous les 9 jeux\9 jeux\neuf jeux\tous 9 jeux
+[Sport] Dans quel sport Jean Borotra, Jacques Brugnon, Henri Cochet et René Lacoste étaient-ils surnommés les "Quatres Mousquetaires" ?\Le tennis\au tennis\tennis
+[Sport] En quelle année le tournoi des Cinq Nations de rugby est-il devenu celui des Six Nations ?\2000
+[Sport] Quel joueur de tennis est le seul à avoir battu Rafael Nadal à Roland Garros ?\Robin Söderling\Robin soderling\soderling\söderling
+[Sport] Quel pays a remporté le plus de médailles de bronze aux JO d'été de 2012 ?\La Russie\russie
+[Sport] Quels pays se sont affrontés en finale de la coupe Davis en 2012 ?\La Serbie et la France\serbie et france\serbie france\france serbie\france et serbie\la france et la serbie
+[Sport] En basket, quelle action consiste à reprendre une passe en vol pour aller dunker ?\Un Alley-oop\un alley oop\alley oop\alley-oop
+[Sport] Combien de fois Laurent Fignon a-t-il remporté le Tour de France ?\Deux fois\2 fois\deux\2
+[Sport] En 2012, combien de titres a remporté Teddy Riner ?\cinq\5
+[Sport] Contre quelle équipe la France a-t-elle remporté le championnat d'europe de foot 1984\L'Espagne\l espagne\espagne
+[Sport] Quel pilote de moto est surnommé Le Docteur ?\Valentino Rossi\rossi
+[Sport] Qui fut le premier français à être champion du monde de squash ?\Thierry Lincou\Lincou
+[Sport] Dans quel pays aura lieu l'Euro 2016 de football ?\La France\france\en france
+[Sport] Quel tournoi de golf par équipe oppose tous les deux ans l'Europe aux Etats-Unis ?\La Ryder Cup\ryder cup
+[Sport] Quelle est la hauteur réglementaire d'un panier de basket ?\3m05
+[Sport] Quel tennisman a terminé la saison 2012 à la première place du classement ATP ?\Novak Djokovic\djokovic
+[Sport] Quel pilote de vitesse moto a remporté le championnat du monde MotoGP en 2011 ?\Casey Stoner\stoner
+[Sport] Dans quel sport s'illustre céline dumerc ?\Le basket\basket
+[Sport] Quel était le surnom de Gustavo Kuerten ?\Guga
+[Sport] Quel sport pratiquait Gustavo Kuerten ?\Le tennis\tennis\du tennis
+[Sport] Quel cycliste a obtenu la médaille d'or en cross country (VTT) aux JO de Londres 2012 ?\Julie Bresset\Bresset
+[Sport] Lors de son retour chez les Chicago Bulls en 1995, quel numéro portait Michael Jordan ?\45
+[Sport] De quelle nationalité est le pilote de F1 Mark Webber ?\Australienne
+[Sport] Avec quelle équipe Lance Armstrong a-t-il remporté le Tour de France 2005 ?\Discovery Channel
+[Sport] Quel club de football féminin français a remporté la ligue des champions en 2011 et 2012 ?\Olympique Lyonnais
+[Sport] Dans quel pays s'est déroulée la coupe du monde de foot en 1994 ?\Les Etats-Unis\les états unis\les états-unis\etats-unis\états-unis\etats unis\états unis\les etats unis
+[Sport] En handball, le fait de sauter, recevoir le ballon et tirer avant de retomber s'appelle ... ?\Un kung-fu\kung-fu\un kung fu\kung-fu
+[Sport] Quel joueur de tennis détient le record du nombre de participations aux tournois du Grand Chelem ?\Fabrice Santoro\Santoro
+[Sport] Dans quelle ville se sont déroulés les JO de l'an 2000 ?\Sydney
+[Sport] Dans quelle ville eurent lieu les premiers JO d'hiver en 1924 ?\Chamonix
+[Sport] Quelle équipe de rugby a remporté le plus grand nombre de fois le bouclier de Brennus ?\Le stade toulousain\stade toulousain\toulouse
+[Sport] En quelle année s'est déroulé le premier Tour de France ?\1903
+[Sport] En football américain, combien de points rapporte un touchdown non transformé ?\6\six
+[Sport] Dans quel sport le français Renaud Lavillenie a-t-il remporté les championnats du monde en salle, en 2012, à Istanbul ?\Le saut à la perche\saut à la perche\le saut a la perche\saut a la perche\saut perche
+[Sport] Quel athlète détient le record du monde de Triple Saut depuis 1995 ?\Jonathan Edwards\Edwards
+[Sport] Qui a été sacré meilleur pongiste français du XXe siècle ?\Jacques Secrétin\secrétin\jacques secretin\secretin\secr?tin
+[Sport] Dans quelle ville vont se dérouler les JO de 2016 ?\Rio de Janeiro\rio
+[Sport] Quel joueur de tennis détient le record du nombre de titres obtenus sous l'ère Open ?\Jimmy Connors\connors
+[Sport] Quelle est la nationnalité du footballeur Cristiano Ronaldo ?\Portugaise
+[Sport] Au golf, quelle pièce de plastique permet de surélever la balle ?\Le tee\tee
+[Sport] En quelle année l'OM a-t-il remporté la Ligue des champions ?\1993
+[Sport] Quel est le nom du stade de football du RC Lens ?\Félix-Bollaert\felix bollaert\felix-bollaert\félix bollaert
+[Sport] Quelle équipe a remporté le championnat de France de basket Pro A en 2012 ?\Chalon-sur-saône\chalon sur saône\chalon sur saone\chalon-sur-saone
+[Sport] Sur quel hippodrome se court le Prix de l'Arc de Triomphe ?\Longchamp
+[Sport] Qui a marqué le dernier but lors de la finale de la Coupe du Monde de football en 1998 ?\Emmanuel Petit\petit
+[Sport] En handball, à quelle distance des buts sont tirés les penalty (en m) ?\7\sept
+[Sport] Quel était le surnom du joueur de rugby français Christophe Lamaison ?\Titou
+[Sport] De quelle nationalité était le golfeur Severiano Ballesteros ?\Espagnole\espagnol
+[Sport] Au billard américain, combien y'a-t-il de billes numérotées ?\15
+[Sport] Dans quelle ville a lieu le départ du Vendée Globe ?\Les Sables-d'Olonne\les sables d'olonne\sables d'olonne\sables d olonne\les sables d olonne\les sables-d olonne
+[Sport] Quelle nation a remporté la première coupe du monde de rugby ?\La Nouvelle-Zélande\la nouvelle zélande\la nouvelle-zelande\la nouvelle zelande\nouvelle zelande\nouvelle zélande\nouvelle-zélande\nouvelle-zélande
+[Sport] Combien de Tours de France Jacques Anquetil a-t-il remporté ?\5\cinq
+[Sport] Avec quel club de foot Thierry Henry joue-t-il depuis 2010 ?\Les Red Bull New York\red bull new york
+[Sport] Quel joueur de tennis a remporté le tournoi de Roland-Garros en 2000 ?\Gustavo Kuerten\kuerten
+[Sport] Quel sport fut brièvement pratiqué sur la Lune ?\Le golf\golf
+[Sport] Quel club de football a remporté le championnat de France 1993-1994 ?\Le PSG\psg
+[Sport] Comment est surnommé le coureur amputé Oscar Pistorius ?\Blade Runner
+[Sport] Quel trophée récompense le meilleur jockey de plat et d'obstacle de l'année ?\La cravache d'or\cravache d'or\la cravache d or\cravache d or
+[Sport] Quelle est la catégorie de boxe la plus légère ?\Poids super-mouches\poids super-mouche\poids super mouches\poids super mouche\super mouche\super-mouche\super mouches\super-mouches
+[Sport] Quel est le nom du club de hockey sur glace de Grenoble ?\Les brûleurs de loups\les bruleurs de loups\bruleurs de loups\brûleurs de loups\bruleurs loups\brûleurs loups
+[Sport] Quel sportif détient le record de médailles d'or obtenues lors de Jeux Olympiques ?\Michael Phelps\phelps
+[Sport] La marque Nike tire son nom de la déesse Niké, de quoi est-elle la déesse ?\De la victoire\victoire\la victoire
+[Sport] Avec quelle équipe Sébastien Loeb a-t-il obtenu des titres de champion du monde WRC ?\Citroën\citroen
+[Sport] Comment sont surnommés les joueurs du club de football de Liverpool ?\Les Reds\reds
+[Sport] Roland Garros est un tournois de ..?\Tennis
+[Sport] Au tennis, combien de points minimum faut-il pour gagner un tie-break ?\7\sept
+[Sport] Quelle est la ville natale de Zidane ?\Marseille
+[Sport] Quel est le prénom du joueur de tennis Agassi ?\André\andre
+[Sport] Dans quelle université écossaise s'est constitu? le premier club de golf ?\Saint Andrews\st andrews
+[Sport] De quelle origine est le joueur international Allemand Mezut özil ?\Turque
+[Sport] Combien de pays ont participé aux jeux olympiques d'hiver de 2014 ?\88
+[Sport] Combien de médailles la France a-t-elle eu aux jeux olympiques d'hiver de 2014 ?\15
+[Sport] Quel a été la position de la France dans les jeux olympiques d'hiver de 2014 ?\10ème\10eme\10
+[Sport] Quel a été le gagnant des jeux olympiques d'hiver de 2014 avec 13 médailles d'or ?\La Russie\russie
+[Sport] En quelle année ont eu lieux les JO de Munich ?\En 1972\1972
+[Sport] Quel historien et pédagogue a remis les jeux olympiques au goût du jour (en 1894) ?\Pierre de Coubertin\de coubertin\coubertin
+[Sport] Qu'est-ce que le Palio de Sienne ?\Une course à cheval\une course a cheval\course à cheval\course a cheval\course de chevaux\une course de chevaux\
+[Sport] Quelle a été la première écurie de F1 d'Alain Prost ?\McLaren
+[Sport] Comment s'appelle le 4ème plus grand stade français, situé à Paris ?\Le Parc des Princes\parc des princes
+[Sport] Dans quelle ville se déroulent le tournois de Wimbledon ?\A Londres\Londres
+[Sport] Combien y'a-t-il de joueurs dans une équipe de polo ?\4\quatre
+[Sport] De quel sport le Campeonato Abierto de Hurlingham est-il le tournois ?\Du polo\de polo\polo
+[Sport] En quelle année a été créée la coupe du monde de football ?\1928
+[Sport] Quel président de la FIFA a participé à la création de la coupe du monde ?\Jules Rimet
+[Sport] Quel pays a le plus de victoires de la coupe du monde de football (5) ?\Le Brésil\le bresil\brésil\bresil
+[Sport] Dans quel pays s'est déroulé la première coupe du monde ?\En Uruguay\uruguay
+[Sport] En quelle année s'est déroulée la première coupe du monde ?\En 1930\1930
+[Sport] Quel pays a remporté la coupe du monde de football en 1930 ?\L'Uruguay\l uruguay\uruguay
+[Sport] Dans quel pays s'est déroulée la coupe du monde de football de 1934 ?\L'Italie\l italie\italie\en italie
+[Sport] Quel pays a gagné la coupe du monde de football en 1934 ?\L'Italie\l italie\italie
+[Sport] Quel pays a organisé la coupe du monde de football en 1938 ?\La France\france
+[Sport] Quel pays a gagné la coupe du monde de football en 1938 ?\L'Italie\l italie\italie
+[Sport] Quel pays a organisé la coupe du monde de football de 1950 ?\Le Brésil\bresil\brésil\le bresil
+[Sport] Quel pays a remporté la coupe du monde de football en 1950 ?\L'Uruguay\l uruguay\uruguay
+[Sport] Quel pays a organisé la coupe du monde de football de 1954 ?\La Suisse\suisse
+[Sport] Quel pays a remporté la coupe du monde de football en 1954 ?\La RFA\rfa\la république fédérale d'allemagne\la republique federale d'allemagne\la république fédérale d allemagne\la republique federale d allemagne\r?publique f?d?rale d'allemagne\republique federale d'allemagne\r?publique f?d?rale d allemagne\republique federale d allemagne
+[Sport] Quel pays a remporté la coupe du monde de football de 1958 ?\Le Brésil\le bresil\brésil\bresil
+[Sport] Quel pays a organisé la coupe du monde de football de 1958 ?\La Suède\la suede\suede\suède
+[Sport] Quel pays a organisé la coupe du monde de football de 1962 ?\Le Chili\chili
+[Sport] Quel pays a gagné la coupe du monde de football en 1962 ?\Le brésil\brésil\bresil\le bresi
+[Sport] Quel pays a organisé la coupe du monde de football de 1966 ?\L'Angleterre\l angleterre\angleterre
+[Sport] Quel pays a remporté la coupe du monde de football de 1966 ?\L'Angleterre\angleterre\l angleterre
+[Sport] Quel pays a remporté la coupe du monde de football de 1970 ?\Le Brésil\le bresil\bresil\brésil
+[Sport] Quel pays a organisé la coupe du monde de football de 1970 ?\Le Mexique\mexique
+[Sport] Quel pays a organisé la coupe du monde de football de 1974 ?\La RFA\rfa
+[Sport] Quel pays a remporté la coupe du monde de football de 1974 ?\La RFA\rfa
+[Sport] Quel pays a organisé la coupe du monde de football de 1978 ?\L'Argentine\argentine\l argentine
+[Sport] Quel pays a remporté la coupe du monde de football de 1978 ?\L'Argentine\argentine\l argentine
+[Sport] Quel pays a remporté la coupe du monde de football de 1982 ?\L'Italie\l italie\italie
+[Sport] Quel pays a organisé la coupe du monde de football de 1982 ?\L'Espagne\l espagne\espagne
+[Sport] Quel pays a organisé la coupe du monde de football de 1986 ?\Le Mexique\Mexique
+[Sport] Quel pays a remporté la coupe du monde de football de 1986 ?\L'Argentine\l argentine\argentine
+[Sport] Quel pays a remporté la coupe du monde de football de 1990 ?\La RFA\rfa
+[Sport] Quel pays a organisé la coupe du monde de football de 1990 ?\L'Italie\l italie\italie
+[Sport] Quel pays a organisé la coupe du monde de football de 1994 ?\Les Etats-Unis\les états unis\états unis\etats unis\usa\les usa
+[Sport] Quel pays a remporté la coupe du monde de football de 1994 ?\Le Brésil\bresil\brésil\le bresil
+[Sport] Quel pays a organisé la coupe du monde de football de 1998 ?\La France\france
+[Sport] Quel pays a remporté la coupe du monde de football de 1998 ?\La France\france
+[Sport] Quels sont les pays qui ont organisé la coupe du monde de football de 2002 ?\Le Japon et la Corée du sud\le japon et la coree du sud\japon et corée du sud\japon et coree du sud\la corée du sud et le japon\la coree du sud et le japon\coree du sud et japon\corée du sud et japon
+[Sport] Quel pays a remporté la coupe du monde de football de 2002 ?\Le Brésil\le bresil\bresil\brésil
+[Sport] Quel pays a remporté la coupe du monde de football de 2006 ?\L'Italie\l italie\italie
+[Sport] Quel pays a organisé la coupe du monde de football de 2006 ?\L'Allemagne\l allemagne\allemagne
+[Sport] Quel pays a organisé la coupe du monde de football de 2010 ?\L'Afrique du sud\l afrique du sud\afrique du sud
+[Sport] Quel pays a remporté la coupe du monde de football de 2010 ?\L'Espagne\l espagne\espagne
+[Sport] Quel pays a organisé la coupe du monde de football de 2014 ?\Le brésil\bresil\le bresil\brésil
+[Sport] En natation, comment s'appelle le flotteur que l'on met entre les jambes pour faire travailler uniquement les bras ?\Le pull-buoy\le pull buoy\pull-buoy\pull buoy
+[Sport] Quelle est la technique de nage la plus rapide ?\Le crawl\crawl
+[Sport] Dans une épreuve de quatre nages, quel est l'ordre des nages ?\Papillon, dos, brasse et crawl\papillon dos brasse et crawl\papillon dos brasse crawl\papillon, dos, brasse, crawl\le papillon, le dos, la brasse, le crawl\le papilon, le dos, la brasse et le crawl
+[Sport] Dans quel océan se déroule la Transat Jacques-Vabre ?\L'océan Atlantique\l'ocean atlantique\l ocean atlantique\l océan atlantique\atlantique\l'atlantique\l atlantique
+[Sport] En quelle année a été créée la Transat Jacques-Vabre ?\En 1993\1993
+[Sport] Combien de marins composent un équipage de la Transat Jacques-Vabre ?\2\deux
+[Sport] A quelle fréquence se déroule la Transat Jacques-Vabre ?\Tous les deux ans\tous les 2 ans\2 ans\2\deux\deux ans
+[Sport] Qui a remporté la première Transat Jacques-Vabre en 1993 ?\Paul Vatine\vatine
+[Sport] En quelle année ont eu lieu les premiers jeux olympiques d'été ?\En 1896\1896
+[Sport] En quelle année ont eu lieu les premiers jeux olympiques d'hiver ?\En 1924\1924
+[Sport] Quelle ville de Grèce a organisé les jeux olympiques d'été de 1896 ?\Athènes\athenes
+[Sport] Quelle ville de France a organisé les jeux olympiques d'été de 1900 ?\Paris
+[Sport] Quelle ville des Etats-Unis a organisé les jeux olympiques d'été de 1904 ?\Saint-Louis\saint louis
+[Sport] Quelle ville de Grèce a organisé les jeux olympiques d'été de 1906 ?\Athènes\athenes
+[Sport] Quelle ville du Royaume-Uni a organisé les jeux olympiques d'été de 1908 ?\Londres
+[Sport] Quelle ville de Suède a organisé les jeux olympiques d'été de 1912 ?\Stockholm
+[Sport] Quelle ville d'Allemagne a organisé les jeux olympiques d'été de 1916 ?\Berlin
+[Sport] Quelle ville de Belgique a organisé les jeux olympiques d'été de 1920 ?\Anvers
+[Sport] Quelle ville de France a organisé les jeux olympiques d'été de 1924 ?\Paris
+[Sport] Quelle ville des Pays-Bas a organisé les jeux olympiques d'été de 1928 ?\Amsterdam
+[Sport] Quelle ville des Etats-Unis a organisé les jeux olympiques d'été de 1932 ?\Los Angeles
+[Sport] Quelle ville d'Allemagne a organisé les jeux olympiques d'été de 1936 ?\Berlin
+[Sport] Quelle ville du Royaume-Uni a organisé les jeux olympiques d'été de 1948 ?\Londres
+[Sport] Quelle ville de Finlande a organisé les jeux olympiques d'été de 1952 ?\Helsinki
+[Sport] Quelle ville d'Australie a organisé les jeux olympiques d'été de 1956 ?\Melbourne
+[Sport] Quelle ville d'Italie a organisé les jeux olympiques d'été de 1960 ?\Rome
+[Sport] Quelle ville du Japon a organisé les jeux olympiques d'été de 1964 ?\Tokyo
+[Sport] Quelle ville du Mexique a organisé les jeux olympiques d'été de 1968 ?\Mexico
+[Sport] Quelle ville d'Allemagne de l'Ouest a organisé les jeux olympiques d'été de 1972 ?\Munich
+[Sport] Quelle ville du Canada a organisé les jeux olympiques d'été de 1976 ?\Montréal\montreal
+[Sport] Quelle ville de l'Union Soviétique a organisé les jeux olympiques d'été de 1980 ?\Moscou
+[Sport] Quelle ville des Etats-Unis a organisé les jeux olympiques d'été de 1984 ?\Los Angeles
+[Sport] Quelle ville de Corée du Sud a organisé les jeux olympiques d'été de 1988 ?\Séoul\seoul
+[Sport] Quelle ville d'Espagne a organisé les jeux olympiques d'été de 1992 ?\Barcelone
+[Sport] Quelle ville des Etats-Unis a organisé les jeux olympiques d'été de 1996 ?\Atlanta
+[Sport] Quelle ville d'Australie a organisé les jeux olympiques d'été de 2000 ?\Sydney
+[Sport] Quelle ville de Grèce a organisé les jeux olympiques d'été de 2004 ?\Athènes\athenes
+[Sport] Quelle ville de Chine a organisé les jeux olympiques d'été de 2008 ?\Pékin\pekin
+[Sport] Quelle ville du Royaume-Uni a organisé les jeux olympiques d'été de 2012 ?\Londres
+[Sport] Quelle ville du Brésil organisera les jeux olympiques d'été de 2016 ?\Rio de Janeiro\rio
+[Sport] Quelle ville du Japon organisera les jeux olympiques d'été de 2020 ?\Tokyo
+[Sport] Quelle ville de France a organisé les jeux olympiques d'hiver de 1924 ?\Chamonix
+[Sport] Quelle ville de Suisse a organisé les jeux olympiques d'hiver de 1928 ?\Saint-Moritz\saint moritz
+[Sport] Quelle ville des Etats-Unis a organisé les jeux olympiques d'hiver de 1932 ?\Lake Placid
+[Sport] Quelle ville de Suisse a organisé les jeux olympiques d'hiver de 1948 ?\Saint-Moritz\saint moritz
+[Sport] Quelle ville de Norvège a organisé les jeux olympiques d'hiver de 1952 ?\Oslo
+[Sport] Quelle ville d'Italie a organisé les jeux olympiques d'hiver 1956 ?\Cortina d'Ampezzo\cortina d ampezzo
+[Sport] Quelle ville des Etats-Unis a organisé les jeux olympiques d'hiver de 1960 ?\Squaw Valley
+[Sport] Quelle ville d'Autriche a organisé les jeux olympiques d'hiver de 1964 ?\Innsbruck
+[Sport] Quelle ville de France a organisé les jeux olympiques d'hiver 1968 ?\Grenoble
+[Sport] Quelle ville du Japon a organisé les jeux olympiques d'hiver de 1972 ?\Sapporo
+[Sport] Quelle ville d'Autriche a organisé les jeux olympiques d'hiver de 1976 ?\Innsbruck
+[Sport] Quelle ville des Etats-Unis a organisé les jeux olympiques d'hiver 1980 ?\Lake Placid
+[Sport] Quelle ville de Yougoslavie a organisé les jeux olympiques d'hiver de 1984 ?\Sarajevo
+[Sport] Quelle ville du Canada a organisé les jeux olympiques d'hiver de 1988 ?\Calgary
+[Sport] Quelle ville de France a organisé les jeux olympiques d'hiver de 1992 ?\Albertville
+[Sport] Quelle ville de Norvège a organisé les jeux olympiques d'hiver de 1994 ?\Lillehammer
+[Sport] Quelle ville du Japon a organisé les jeux olympiques d'hiver de 1998 ?\Nagano
+[Sport] Quelle ville des Etats-Unis a organisé les jeux olympiques d'hiver de 2002 ?\Salt Lake City
+[Sport] Quelle ville d'Italie a organisé les jeux olympiques d'hiver de 2006 ?\Turin
+[Sport] Quelle ville du Canada a organisé les jeux olympiques d'hiver de 2010 ?\Vancouver
+[Sport] Quelle ville de Russie a organisé les jeux olympiques d'hiver de 2014 ?\Sotchi
+[Sport] Quelle ville de Corée du Sud organisera les jeux olympiques d'hiver de 2018 ?\Pyeongchang

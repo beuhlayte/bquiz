@@ -1,0 +1,3 @@
+[submodule "bquiz"]
+	path = bquiz
+	url = git@github.com:bquiz
