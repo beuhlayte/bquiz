@@ -1,0 +1,278 @@
+[Sciences] Quel est l'équivalent du prix nobel pour les mathématiques ?\La médaille Fields\medaille fields\médaille fields\la medaille fields
+[Sciences] Quel élément chimique compose majoritairement les perles sauvages ?\Le calcium\calcium
+[Sciences] A quoi est proportionnelle l'énergie cinétique ?\A la masse et à la vitesse\masse et vitesse\la masse et la vitesse\à la masse et à la vitesse\masse vitesse
+[Sciences] Le Soleil se couche à l'Ouest, mais de quel côté se lève la Lune ?\A l'est\est\l'est\a l est\l est
+[Sciences] Comment est la charge d'un électron ?\Négative\negative
+[Sciences] Quel chirurgien français est le premier à avoir réalisé une transplantation cardiaque ?\Christian Cabrol\C. Cabrol\C Cabrol\Cabrol
+[Sciences] Combien de pairs de chromosomes l'homme possède-t-il ?\23
+[Sciences] Comment appelle-t-on un courant électrique dont le sens change périodiquement ?\Un courant alternatif\courant alternatif\alternatif
+[Sciences] Quels ions forme le sel si on le dissout dans l'eau ?\Cl- et Na+\cl- na+\na+ et cl-\na+ cl-
+[Sciences] Quelle valvule cardiaque est bivalve ?\La valvule mitrale\valvule mitrale\mitrale
+[Sciences] Quel phénomène se produit lorsque la Lune passe entre la Terre et le Soleil ?\Une éclipse\éclipse\eclipse\une eclipse
+[Sciences] Qui se cachait derrière le pseudonyme de Monsieur Leblanc dans sa correspondance avec Gauss ?\Sophie Germain\germain
+[Sciences] En médecine, quel adjectif fait référence à l'estomac ?\Gastrique\Stomacal\|
+[Sciences] Quelle expression gastronomique désigne un scénario possible des origines de la vie ?\La soupe primordiale\soupe primordiale
+[Sciences] Que faut-il ajouter au glycérol pour former un puissant explosif ?\De l'acide sulfurique et nitrique\acide sulfurique et nitrique\l'acide sulfurique et nitrique\acide nitrique et sulfurique
+[Sciences] Quel est le produit de l'équation chimique H+ + OH- ?\H2O\L'eau\eau\l eau
+[Sciences] Qu'est-ce que le mécanisme de miction, phénomène naturel du corps humain ?\L'action d'uriner\action d'uriner\faire pipi\pisser
+[Sciences] Quel pigment est responsable de la coloration de la peau ?\La mélanine\la melanine\melanine\mélanine
+[Sciences] A quoi peut être dû un accident ischémique transitoire, en médecine?\A l'occlusion d'une artère cérébrale\a l'occlusion d'une artere cerebrale\occlusion artere cerebrale\occlusion d'une artere cerebrale\occlusion artère cérébrale\occlusion artere cérébrale\occlusion artère cérebrale\occlusion artere cérébrale\occlusion artère cerébrale\occlusion artere cerébrale
+[Sciences] Dans des conditions idéales de culture, combien de temps faut-il à une bactérie pour se diviser en 2 ?\30 minutes\trente minutes
+[Sciences] Comment appelle-t-on une droite dont l'équation est : y = ax + b\Une droite affine\affine\droite affine
+[Sciences] En mathématiques, quel lettre designe en général l'image de x par f ?\y
+[Sciences] dans un hexagone, quel segment joint le centre et le milieu d'un des cotés ?\L'Apothème\apothème\l'apotheme\apotheme\l apothème\l apotheme
+[Sciences] Quel volume (en litres) occupe une mole de gaz parfait dans des conditions normales de température et de pression ?\22.4 litres\22.4\22,4 litres\22,4litres\22,4
+[Sciences] Quel phénomène a été découvert par Marie Curie ?\La radioactivité spontanée\la radioactivité\radioactivité\radioactivite\la radioactivite\la radioactivite spontanée\la radioactivité spontanee\la radioactivite spontanee
+[Sciences] Comment s'appelle la science des serpents ?\L'ophiologie\ophiologie\l ophiologie
+[Sciences] Qu'étudie la mycologie ?\Les champignons\champignons\champignon
+[Sciences] Depuis 2006, quel est le nom de la planète devenue "planète naine" ?\Pluton
+[Sciences] Quelle matière est à l'origine du diamant ?\Le carbone\carbone
+[Sciences] Combien l'Homme a t il de vertébres cervicales ?\7
+[Sciences] Comment s'appelle le résultat d'une division ?\Le quotient\quotient
+[Sciences] Quel est l'autre nom du paludisme ?\La malaria\malaria
+[Sciences] Pour quel "science" Sigmund Freud est-il connu ?\La psychanalyse\psychanalyse
+[Sciences] Comment s'appelle l'endroit où un tremblement de terre est le plus puissant ?\L'épicentre\l'epicentre\l epicentre\l épicentre
+[Sciences] Quel sens est assuré par les yeux ?\La vue\vue
+[Sciences] Quel sens est assuré par les oreilles ?\L'ouïe\l'ouie\l ouie\l ouïe\ouie\ouïe
+[Sciences] Quel sens est assuré par le nez ?\L'odorat\l odorat\odorat\l olfaction\olfaction\l'olfaction
+[Sciences] Quel sens est assuré par la bouche ?\Le goût\le gout\gout\goût
+[Sciences] Quel sens est assuré par la peau ?\Le toucher\toucher
+[Sciences] Combiens l'Homme a-t-il de sens ?\5\cinq
+[Sciences] Combien font i²*i², i étant l'unité des nombres complexes ?\1\un
+[Sciences] Quelle est la longueur moyenne de l'intestin grèle d'un homme adulte (en mètres) ?\Six mètres\6 mètres\six metres\6 metres\6\six
+[Sciences] Quel astre est surnommé l'étoile du berger ?\Vénus\venus
+[Sciences] Dans un triangle ABC rectangle en B, à quoi est égal AC² ?\AB² + BC²\ab²+bc²\bc² + ab²\bc²+ab²\AB^2 + BC^2\ab^2+bc^2\bc^2 + ab^2\bc^2+ab^2
+[Sciences] Quel nom porte l'énergie que possède un corps du fait de son mouvement réel ?\Cinétique\cinetique
+[Sciences] Quel est le symbole chimique de l'or ?\Au
+[Sciences] Combien de Prix Nobel de mathématiques ont été décernés à ce jour ?\Aucun\0
+[Sciences] Quelle est la formule moléculaire de l'alcool pur ?\CH3-CH2-OH\ch3 ch2 oh\c2h5oh
+[Sciences] Quel est le plus léger des éléments chimiques ?\L'hydrogène\l hydrogène\l'hydrogene\l hydrogene\hydrogene\hydrogène
+[Sciences] De quel minerai est principalement extrait l'aluminium ?\Du bauxite\le bauxite\bauxite
+[Sciences] Comment appelle-t-on la fossette située au milieu de la lèvre supérieure de l'homme ?\Le philtrum\philtrum
+[Sciences] Comment s'appelle la phobie des lieux publics, des espaces ouverts et de la foule ?\L'agoraphobie\l agoraphobie\agoraphobie
+[Sciences] Comment s'appelle la phobie d'être enfermé dans un endroit étroit ?\La claustrophobie\claustrophobie
+[Sciences] Que vaut le nombre Pi ? (deux décimales)\3,14
+[Sciences] Quel est le nom scientifique du grain de beauté ?\Le naevus\naevus
+[Sciences] Combien un cube a-t-il d'arètes ?\12\douze
+[Sciences] Qu'a inventé Benjamin Franklin ?\Le paratonnerre\paratonnerre
+[Sciences] De quoi est constitué le vermeil ?\d'or et d'argent\or et argent\or argent\argent or\argent et or\d'argent et d'or\d argent et d or
+[Sciences] Quel groupe sanguin est dit donneur uniuversel ?\O-\o négatif\o negatif
+[Sciences] Comment s'appelle la particule subatomique portant une charge élémentaire positive ?\Le proton\proton
+[Sciences] Quelle est la planète du système solaire la plus éloignée du soleil ?\Neptune
+[Sciences] A quoi sont dues les vagues à la surface de l'océan ?\Au vent\le vent\vent
+[Sciences] Laquelle des planètes du système solaire est la plus grosse ?\Jupiter
+[Sciences] Combien l'Homme a-t-il d'os dans le corps ?\206
+[Sciences] Qui a inventé la lampe électrique ?\Thomas Edison\edison
+[Sciences] Laquelle de ces périodes n'est pas une subdivision de l'âge de pierre : le Mézozoïque,le paléolithique ou le néolithique ?\Le mézozoïque\mézozoïque\mezozoique\mézozoique\mezozoïque
+[Sciences] Comment appelle-t-on l'ensemble des phénomènes conséquents à l'explosion d'une étoile ?\Une supernova\supernova\la supernova
+[Sciences] Le mot science vient du latin scientia, qui signifie ...?\Connaissance
+[Sciences] Que mesure-t-on en becquerels ?\La radioactivité\radioactivité\la radioactivite\radioactivite
+[Sciences] Quel est le nom du supercontinent rassemblant la quasi totalité des terres émergées, qui a existé de la fin du Carbonifère au début du Jurassique ?\La Pangée\la pangee\pangee\pangée
+[Sciences] Quelle molécule est présente à 78% dans l'air ?\Le diazote\diazote
+[Sciences] Combien y'a-t-il de mètres dans un mille terrestre americain ? (une seule décimale)\1609,3\1609.3
+[Sciences] Quel est le terme médical officiel pour désigner l'omoplate ?\La scapula\scapula
+[Sciences] Quelle est la vitesse orbitale moyenne de la terre autour du soleil ? (en km/s)\30 km/s\30km/s\30
+[Sciences] A quelle distance correspond une unité astronomique ? (en millions de km)\149,6\149.6
+[Sciences] Quelle est l'unité d'une charge électrique ?\Le coulomb\coulomb
+[Sciences] Quel est le symbole chimique du bore ?\B
+[Sciences] Combien une main humaine possède-t-elle de phalanges ?\14\quatorze
+[Sciences] En quelle année Neil Armstrong a-t-il posé le pied sur la lune ?\1969\69
+[Sciences] Quelle planète a un satellite naturel appelé Titan ?\Saturne
+[Sciences] Que permet de mesurer un anémomètre ?\La vitesse du vent\vitesse du vent\vitesse vent
+[Sciences] Combien un humain a-t-il de paires de côtes ?\12\douze
+[Sciences] Combien y'a-t-il d'années que s'est produit le Big Bang ? (en milliards d'années)\13,7
+[Sciences] Comment appelle-t-on le besoin de boire constament ?\La potomanie\potomanie
+[Sciences] De quoi la triskaïdékaphobie est-elle la peur ?\Du nombre 13\nombre 13\13
+[Sciences] Combien y'a-t-il d'éléments dans le tableau périodique de Mendeleïev ?\118
+[Sciences] Que signifie ARN, molécule très proche de l'ADN ?\Acide RiboNucléique\acide ribonucleique
+[Sciences] Combien de planètes du système solaire possèdent des anneaux ?\4\quatre
+[Sciences] Une unité astronomique correspond à la distance entre quoi et quoi ?\terre et soleil\soleil et terre\terre soleil\soleil terre
+[Sciences] Quel était le nom de l'océan qui entourait la Pangée ?\La Panthalassa\panthalassa
+[Sciences] Qui a découvert la pénicilline ?\Alexander Fleming\fleming
+[Sciences] Combien pèse un gallon (US) d'eau ? (en kg)\3,78\3.78
+[Sciences] Quelle est l'unité de la mesure de la quantité de matière ?\La mole\mole
+[Sciences] Quelles cellules sont responsable de l'immunité du corps humain ?\Les leucocytes\Les globules blancs\leucocytes\globules blancs
+[Sciences] Comment s'appelle la médecinedes maladies du sang ?\L'hématologie\l hématologie\l hematologie\l'hematologie\hématologie\hematologie
+[Sciences] A quoi est due la couleur du sang ?\L'hémoglobine\hémoglobine\l'hemoglobine\hemoglobine\l hémoglobine\l hemoglobine
+[Sciences] Quelle est la plus grosse artère des mammifères ?\L'aorte\l aorte\aorte
+[Sciences] Quel médecin travaille sur les maladies de la circulation et des vaisseaux sanguins ?\Le phlébologue\phlebologue\phlébologue
+[Sciences] Quel est l'organe qui filtre le sang et rejette les déchets sous forme d'urine ?\Le rein\les reins\rein\reins
+[Sciences] Comment s'appelle un polygone à 8 côtés ?\Un octogone\octogone
+[Sciences] Quelle est la vitesse de la lumière ? (en km/s)\300 000\300000
+[Sciences] Quelle est la charge électrique d'un atome ?\elle est neutre\0 coulombs\0C\0\neutre
+[Sciences] Cos²(x) + Sin²(x) = ?\1
+[Sciences] Quelle maladie se traduit par la présence de 3 chromosomes (21 ou 18 en général) identiques ?\La trisomie\trisomie
+[Sciences] Quel est l'os de la cuisse ?\Le fémur\fémur\femur\le femur
+[Sciences] Comment s'appelle l'os du genou ?\La rotule\rotule
+[Sciences] Quels chromosomes déterminent un sexe mâle ?\XY
+[Sciences] Quels chromosomes déterminent un sexe femelle ?\XX
+[Sciences] x^0 = ?\1
+[Sciences] Quelle est la quatrième planète la plus proche du soleil ?\Mars
+[Sciences] Combien d'oreillettes possède le coeur ?\2\deux
+[Sciences] Cavité supérieure du coeur permettant le passage du sang des veines vers les ventricules.\Oreillette
+[Sciences] Cavités inférieures du coeur qui, par une contraction puissante, ejecte le sang vers l'artère pulmonaire à droite et vers l'aorte à gauche.\Les Ventricules\Les ventricules\ventricules
+[Sciences] Quelle grandeur correspond à l'agitation des atomes ?\La température\la temperature\temperature\température
+[Sciences] Trois de ces termes sont des synonymes, lequel est intrus ? Erythrocyte, Hématie, Globule rouge et Lymphocyte\Lymphocyte
+[Sciences] Quel scientifique a découvert le polonium et le radium ?\Marie Curie
+[Sciences] En terme de volume, comment s'appelle la plus grosse étoile connue ?\VY Canis Majoris\canis majoris
+[Sciences] Le requin est-il un poisson ou un mammifère ?\Un poisson\poisson
+[Sciences] Qui a établit les lois de l'hérédité ?\Gregor Mendel\Mendel
+[Sciences] Comment appelle-t-on deux angles dont la somme fait 180° ?\Supplémentaires\supplementaires
+[Sciences] Que signifie REM, qui correspond à un stade normal avant le sommeil ?\Rapid Eye Movement
+[Sciences] Quel est le gaz contenu dans le soda ?\Dioxyde de carbone\co2
+[Sciences] Qui a établi la théorie de la gravitation universelle ?\Isaac Newton\newton
+[Sciences] Quel est le nom scientifique du gaz hilarant ?\Protoxyde d'azote
+[Sciences] Comment s'appelle l'instrument servant à mesurer une pression ?\Le manomètre\manometre\le manometre\manomètre
+[Sciences] Quelle partie de l'oeil réfracte la lumière ?\La cornée\la cornee\cornée\cornee
+[Sciences] Completez cette suite : 0,1,1,2,3,5,8,13,21,34,..?\55
+[Sciences] Quel effet résulte de l'expulsion de champs magnétiques par un matériau supraconducteur ?\L'effet Meissner\l effet meissner\meissner
+[Sciences] A quelle vitesse est égale Mach 1 ?\La vitesse du son\vitesse du son
+[Sciences] Quel est la valeur du zéro absolu (0K) en Celcius ?\-273,15\-273.15
+[Sciences] Combien y'a-t-il d'oscillations par seconde dans un gigahertz ?\1 000 000 000\1 milliard
+[Sciences] Quel est le nom scientifique des papillons ?\Les lépidoptères\les lepidopteres\lepidopteres\lépidoptères
+[Sciences] Quels sont les noms des deux os qui forment l'avant bras ?\Radius et ulna\ulna et radius\radius ulna\ulna radius\radius et cubitus\radius cubitus\cubitus et radius\cubitus radius\|
+[Sciences] Quel est le nom scientifique de la vitamine C ?\L'acide L-ascorbique\l'acide l ascorbique\l acide l ascorbique\l acide l ascorbique\acide l-ascorbique\acide l ascorbique
+[Sciences] La trompe d'Eustache relie le rhinopharynx à quoi ?\A l'oreille\à l'oreille\a l oreille\à l oreille\l'oreille\l oreille
+[Sciences] Antibiotique découvert par Alexander Fleming. A la base, c'est une toxine inoffensive pour l'homme, introduites pour des thérapies qu'à partir des années 40.\La pénicilline\la penicilline\penicilline\pénicilline
+[Sciences] Quel terme désigne le besoin maladif de boire des boissons toxiques, en particulier de l'alcool, lors de crises intermittentes ?\La dipsomanie\dipsomanie\La méthilepsie\la methilepsie\methilepsie\méthilepsie\la méthomanie\la methomanie\methomanie\méthomanie
+[Sciences] Quelle est environ la température à la surface du Soleil (en °C) ?\5 500\5500
+[Sciences] Combien la planète Mars a-t-elle de satellites naturels ?\2
+[Sciences] Quels sont les noms des deux satellites de Mars ?\Phobos et Déimos\Phobos et deimos\deimos et phobos\déimos et phobos
+[Sciences] Quel scientifique a identifié et baptisé l'oxygène en 1778 ?\Antoine Lavoisier\lavoisier
+[Sciences] Quel mot désigne le résultat d'une reproduction sexuée entre deux individus apparentés ?\La consanguinité\la consanguinite\consanguinite\consanguinité
+[Sciences] Se dit d'un gène qui est représenté par deux allèles identiques sur un même locus.\Homozygote
+[Sciences] Se dit d'un gène qui est représenté par deux allèles différents sur un même locus.\Hétérozygote\heterozygote
+[Sciences] Quel mot désigne l'emplacement précis d'un gène sur le chromosome qui le porte ?\Le locus\un locus\locus
+[Sciences] Quel mot désigne une cellule où les chromosomes sont présents par paires ?\Diploïde\diploide
+[Sciences] Quel mot désigne une cellule où les chromosomes sont présent en un seul exemplaire ?\Haploïde\haploide
+[Sciences] Terme qui regroupe tous les organismes unicellulaire et pluricellulaire qui possèdent un noyau et des mitochondries dans leurs cellules.\Eucaryotes\eucaryote
+[Sciences] désigne un être vivant unicellulaire qui ne comporte pas de noyau.\Procaryote
+[Sciences] Que signifie Primum non nocere, principe appris aux étudiants en médecine. L'origine de ce précepte viendrait d'Hippocrate.\D'abord, ne pas nuire
+[Sciences] Où se situe l'aorte chez les mammifères ?\Du ventricule gauche du coeur à l'abdomen\du ventricule gauche du coeur a l'abdomen\du ventricule gauche du coeur a l abdomen\du ventricule gauche du coeur à l abdomen\du coeur à l'abdomen\du coeur a l'abdomen\du coeur à l abdomen\du coeur a l abdomen
+[Sciences] Que signifie C.H.U ?\Centre Hospitalier Universitaire
+[Sciences] Quel mathématicien a créé les fractales ?\Benoît Mandelbrot\benoit mandelbrot\mandelbrot
+[Sciences] Quel élément a pour symbole H ?\L'hydrogène\l'hydrogene\l hydrogene\l hydrogène\hydrogène\hydrogene
+[Sciences] Quel élément a pour symbole He ?\L'hélium\l'helium\l hélium\l helium\helium\hélium
+[Sciences] Quel élément a pour symbole Li ?\Le lithium\lithium
+[Sciences] Quel élément a pour symbole Be ?\Le béryllium\le beryllium\beryllium\béryllium
+[Sciences] Quel élément a pour symbole B ?\Le bore
+[Sciences] Quel élément a pour symbole C ?\Le carbone\carbone
+[Sciences] Quel élément a pour symbole N ?\L'azote\l azote\azote
+[Sciences] Quel élément a pour symbole O ?\L'oxygène\L'oxygene\l oxygène\l oxygene\oxygène\oxygene
+[Sciences] Quel élément a pour symbole F ?\Le Fluor\Fluor
+[Sciences] Quel élément a pour symbole Ne ?\Le néon\le neon\néon\neon
+[Sciences] Quel élément a pour symbole Na ?\Le sodium\sodium
+[Sciences] Quel élément a pour symbole Mg ?\Le magnésium\le magnesium\magnésium\magnesium
+[Sciences] Quel élément a pour symbole Al ?\L'aluminium\l aluminium\aluminium
+[Sciences] Quel élément a pour symbole Si ?\Le silicium\silicium
+[Sciences] Quel élément a pour symbole P ?\Le phosphore\phosphore
+[Sciences] Quel élément a pour symbole S ?\Le soufre\soufre
+[Sciences] Quel élément a pour symbole Cl ?\Le chlore\chlore
+[Sciences] Quel élément a pour symbole Ar ?\L'argon\l argon\argon
+[Sciences] Quel élément a pour symbole K ?\Le potassium\Potassium
+[Sciences] Quel élément a pour symbole Ca ?\Le calcium\calcium
+[Sciences] Quel élément a pour symbole Sc ?\Le scandium\scandium
+[Sciences] Quel élément a pour symbole Ti ?\Le titane\Titane
+[Sciences] Quel élément a pour symbole V ?\Le vanadium\vanadium
+[Sciences] Quel élément a pour symbole Cr ?\Le chrome\chrome
+[Sciences] Quel élément a pour symbole Mn ?\Le manganèse\Le manganese\manganese\manganèse
+[Sciences] Quel élément a pour symbole Fe ?\Le fer\fer
+[Sciences] Quel élément a pour symbole Co ?\Le cobalt\cobalt
+[Sciences] Quel élément a pour symbole Ni ?\Le nickel\nickel
+[Sciences] Quel élément a pour symbole Cu ?\Le cuivre\cuivre
+[Sciences] Quel élément a pour symbole Zn ?\Le zinc\zinc
+[Sciences] Quel élément a pour symbole Ga ?\Le gallium\gallium
+[Sciences] Quel élément a pour symbole Ge ?\Le germanium\germanium
+[Sciences] Quel élément a pour symbole As ?\L'arsenic\l arsenic\arsenic
+[Sciences] Quel élément a pour symbole Se ?\Le sélénium\le selenium\selenium\sélénium
+[Sciences] Quel élément a pour symbole Br ?\Le brome\brome
+[Sciences] Quel élément a pour symbole Kr ?\Le krypton\krypton
+[Sciences] Quel élément a pour symbole Rb ?\Le rubidium\rubidium
+[Sciences] Quel élément a pour symbole Sr ?\Le strontium\strontium
+[Sciences] Quel élément a pour symbole Y ?\L'yttrium\l yttrium\yttrium
+[Sciences] Quel élément a pour symbole Zr ?\Le zirconium\zirconium
+[Sciences] Quel élément a pour symbole Nb ?\Le niobium\niobium
+[Sciences] Quel élément a pour symbole Mo ?\Le molybdène\molybdène\le molybdene\molybdene
+[Sciences] Quel élément a pour symbole Tc ?\Le technétium\le technetium\technetium\technétium
+[Sciences] Quel élément a pour symbole Ru ?\Le ruthénium\le ruthenium\ruthénium\ruthenium
+[Sciences] Quel élément a pour symbole Rh ?\Le rhodium\rhodium
+[Sciences] Quel élément a pour symbole Pd ?\Le palladium\palladium
+[Sciences] Quel élément a pour symbole Ag ?\L'argent\l argent\argent
+[Sciences] Quel élément a pour symbole Cd ?\Le cadmium\cadmium
+[Sciences] Quel élément a pour symbole In ?\L'indium\l indium\indium
+[Sciences] Quel élément a pour symbole Sn ?\L'étain\l'etain\l etain\l étain\etain\étain
+[Sciences] Quel élément a pour symbole Sb ?\L'antimoine\L antimoine\antimoine
+[Sciences] Quel élément a pour symbole Te ?\Le tellure\tellure
+[Sciences] Quel élément a pour symbole I ?\L'iode\l iode\iode
+[Sciences] Quel élément a pour symbole Xe ?\Le xénon\le xenon\xénon\xenon
+[Sciences] Quel élément a pour symbole Cs ?\Le césium\le cesium\césium\cesium
+[Sciences] Quel élément a pour symbole Ba ?\Le baryum\baryum
+[Sciences] Quel élément a pour symbole La ?\Le lanthane\lanthane
+[Sciences] Quel élément a pour symbole Ce ?\Le cérium\le cerium\cerium\cérium
+[Sciences] Quel élément a pour symbole Pr ?\Le praséodyme\le praseodyme\praséodyme\praseodyme
+[Sciences] Quel élément a pour symbole Nd ?\Le nédoyme\le neodyme\neodyme\néodyme
+[Sciences] Quel élément a pour symbole Pm ?\Le prométhium\Le promethium\prométhium\promethium
+[Sciences] Quel élément a pour symbole Sm ?\Le samarium\samarium
+[Sciences] Quel élément a pour symbole Eu ?\L'europium\l europium\europium
+[Sciences] Quel élément a pour symbole Gd ?\Le gadolinium\gadolinium
+[Sciences] Quel élément a pour symbole Tb ?\Le terbium\terbium
+[Sciences] Quel élément a pour symbole Dy ?\Le dysprosium\dysprosium
+[Sciences] Quel élément a pour symbole Ho ?\L'holmium\l holmium\holmium
+[Sciences] Quel élément a pour symbole Er ?\L'erbium\l erbium\erbium
+[Sciences] Quel élément a pour symbole Tm ?\Le thulium\thulium
+[Sciences] Quel élément a pour symbole Yb ?\L'ytterbium\l ytterbium\ytterbium
+[Sciences] Quel élément a pour symbole Lu ?\Le lutécium\le lutecium\lutecium\lutécium
+[Sciences] Quel élément a pour symbole Hf ?\L'hafnium\l hafnium\hafnium
+[Sciences] Quel élément a pour symbole Ta ?\Le tantale\tantale
+[Sciences] Quel élément a pour symbole W ?\Le tungstène\le tungstene\tungstène\tungstene
+[Sciences] Quel élément a pour symbole Re ?\Le rhénium\le rhenium\rhénium\rhenium
+[Sciences] Quel élément a pour symbole Os ?\L'osmium\l osmium\osmium
+[Sciences] Quel élément a pour symbole Ir ?\L'iridium\l iridium\iridium
+[Sciences] Quel élément a pour symbole Pt ?\Le platine\platine
+[Sciences] Quel élément a pour symbole Au ?\L'or\l or\or
+[Sciences] Quel élément a pour symbole Hg ?\Le mercure\mercure
+[Sciences] Quel élément a pour symbole Tl ?\Le thallium\thallium
+[Sciences] Quel élément a pour symbole Pb ?\Le plomb\plomb
+[Sciences] Quel élément a pour symbole Bi ?\Le bismuth\bismuth
+[Sciences] Quel élément a pour symbole Po ?\Le polonium\polonium
+[Sciences] Quel élément a pour symbole At ?\L'astate\l astate\astate
+[Sciences] Quel élément a pour symbole Rn ?\Le radon\radon
+[Sciences] Quel élément a pour symbole Fr ?\Le francium\francium
+[Sciences] Quel élément a pour symbole Ra ?\Le radium\radium
+[Sciences] Quel élément a pour symbole Ac ?\L'actinium\l actinium\actinium
+[Sciences] Quel élément a pour symbole Th ?\Le thorium\thorium
+[Sciences] Quel élément a pour symbole Pa ?\Le protactinium\protactinium
+[Sciences] Quel élément a pour symbole U ?\L'uranium\l uranium\uranium
+[Sciences] Quel élément a pour symbole Np ?\Le neptunium\neptunium
+[Sciences] Quel élément a pour symbole Pu ?\Le plutonium\plutonium
+[Sciences] Quel élément a pour symbole Am ?\L'américium\américium\l americium\l'americium\l américium\americium
+[Sciences] Quel élément a pour symbole Cm ?\Le curium\curium
+[Sciences] Quel élément a pour symbole Bk ?\Le berkélium\le berkelium\berkélium\berkelium
+[Sciences] Quel élément a pour symbole Cf ?\Le californium\californium
+[Sciences] Quel élément a pour symbole Es ?\L'einsteinium\l einsteinium\einsteinium
+[Sciences] Quel élément a pour symbole Fm ?\Le fermium\fermium
+[Sciences] Quel élément a pour symbole Md ?\Le mendélévium\le mendelevium\mendélévium\mendelevium
+[Sciences] Quel élément a pour symbole No ?\Le nobélium\le nobelium\nobélium\nobelium
+[Sciences] Quel élément a pour symbole Lr ?\Le lawrencium\lawrencium
+[Sciences] Quel élément a pour symbole Rf ?\Le rutherfordium\rutherfordium
+[Sciences] Quel élément a pour symbole Db ?\Le dubnium\dubnium
+[Sciences] Quel élément a pour symbole Sg ?\Le seaborgium\seaborgium
+[Sciences] Quel élément a pour symbole Bh ?\Le bohrium\bohrium
+[Sciences] Quel élément a pour symbole Hs ?\L'hassium\l hassium\hassium
+[Sciences] Quel élément a pour symbole Mt ?\Le meitnérium\le meitnerium\meitnérium\meitnerium
+[Sciences] Quel élément a pour symbole Ds ?\Le darmstadtium\darmstadtium
+[Sciences] Quel élément a pour symbole Rg ?\Le roentgenium\roentgenium
+[Sciences] Quel élément a pour symbole Cn ?\Le copernicium\copernicium
+[Sciences] Quel élément a pour symbole Uut ?\L'ununtrium\l ununtrium\ununtrium
+[Sciences] Quel élément a pour symbole Fl ?\Le flévorium\le flevorium\flévorium\flevorium
+[Sciences] Quel élément a pour symbole Uup ?\L'ununpentium\l ununpentium\ununpentium
+[Sciences] Quel élément a pour symbole Lv ?\Le livermorium\livermorium
+[Sciences] Quel élément a pour symbole Uus ?\L'ununseptium\l ununseptium\ununseptium
+[Sciences] Quel élément a pour symbole Uuo ?\L'ununoctium\l ununoctium\ununoctium
+[Sciences] Combien y'a-t-il de codons dans le code génétique ?\64
+[Sciences] Donnez un des trois codons-stop du code génétique.\UAA\UAG\UGA\|
+[Sciences] Quels cordons relient les muscles aux os ?\Les tendons\tendons
+[Sciences] Qu'est-ce qui relie des os à d'autres os dans les articulations ?\Les ligaments\ligaments
+[Sciences] En grammes, combien pésent 500 mL ?\500g
+[Sciences] Contre quelle maladie le BCG est-il le vaccin ?\La tuberculose\tuberculose
+[Sciences] Combien de gramme pèse en moyenne notre cerveau ?\1450\1 450\1450grammes\1450 grammes\1450g\1 450g
