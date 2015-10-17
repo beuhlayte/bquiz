@@ -1,0 +1,196 @@
+[Geek] Quels caractères figurent au début d'une adresse internet ?\http://www\http://
+[Geek] Quel est le langage informatique le plus recent : Le C, le PHP ou le Perl ?\Le PHP\php
+[Geek] Qui est à l'origine du système d'exploitation Linux ?\Linus Torvalds\torvalds
+[Geek] Quel logiciel n'est pas développé par Microsoft : Burning ROM ou Skype ?\Burning Rom
+[Geek] Quelle société n'édite pas de jeu vidéo : nike ou nintendo ?\nike
+[Geek] Combien y'a t il de couleurs utilisées pour le plus celebre des moteurs de recherche ?\4\quatre
+[Geek] Combien de touches compte le clavier numérique d'un téléphone classique ?\douze\12
+[Geek] Que veut dire PC ?\Personal Computer
+[Geek] Que signifie le mot samsung en coréen ?\Trois étoiles\trois etoiles\3 etoiles\3 étoiles
+[Geek] Que signifie WWW ?\World Wide Web
+[Geek] En quelle année est né le WWW ?\En 1991\1991\en 91\91
+[Geek] Que signifie RPG ?\Role Playing Game
+[Geek] Que signifie PvP ?\Player versus player\player vs player
+[Geek] Que signifie PvE (ou PvM) ?\Player versus environment\player vs environment\player vs monster\player versus monster
+[Geek] Quel ennemi de Mario enlève toujours la Princesse Peach ?\Bowser
+[Geek] Quand Tim Berner-Lee a-t-il créé le HTML ?\En 1991\1991\91
+[Geek] Quel était le titre original du jeu Pac-Man ?\Puck Man\puck-man
+[Geek] Quelle est la taille de l'écran d'un iPhone 5 ?\4 pouces
+[Geek] Dans quel jeu vidéo le joueur peut créer/modifier son monde à l'aide de cubes ?\Minecraft
+[Geek] Quel magazine américain traite de l'incidence de la technologie sur la société ?\Wired
+[Geek] Que signifie GPS ?\Global Positioning System
+[Geek] Quel créateur de jeux vidéo a inventé Donkey Kong ?\Shigeru Miyamoto\miyamoto
+[Geek] Quel est le nom de la gamme de tablettes graphiques de la marque Wacom, destinée au grand public ?\Bamboo
+[Geek] Quel est le nom du lecteur de livres électroniques commercialisé par Amazone ?\Kindle
+[Geek] Quel est le nom de l'interface destinée à remplacer le vieillissant BIOS ?\UEFI
+[Geek] Que signifie UEFI, le remplaçant du BIOS ?\Unified Extensible Firmware Interface
+[Geek] Dans quelle ville se situe le siège social de Microsoft ?\Redmond
+[Geek] Quelle société a racheté Instagram en 2012 ?\Facebook
+[Geek] Quel est l'environnement de bureau par défaut d'Ubuntu ?\GNOME
+[Geek] En jeu vidéo, que signifie RTS ?\Real-Time Strategy\real time strategy
+[Geek] Quelle filiale de Dell est spécialisée dans l'assemblage d'ordinateurs haute performance destinés particulièrement aux jeux vidéos ?\Alienware
+[Geek] Quel animal représente l'indisponibilité du service Twitter ?\Une baleine\baleine
+[Geek] Quel société fabrique une tablette Android du nom de WindPad ?\MSI
+[Geek] Que signifiait RIM, ancien nom de la société Canadienne BlackBerry ?\Research In Motion
+[Geek] Quelle compagnie a créé la série d'ordinateurs portables ThinkPad, aujourd'hui commercialisée par Lenovo ?\IBM
+[Geek] Quelle entreprise fut fondée par Steve Jobs en 1985 après son départ d'Apple ?\NeXT
+[Geek] Quelle est la quantité de stockage offerte aux nouveaux utilisateurs du service Dropbox ?\2 Go\2go\2gb\2 gb
+[Geek] Quel était le nom du projet de Google pour rivaliser avec Wikipédia ?\Knol
+[Geek] Si vous voulez développer une application native pour iPhone, quel langage de programmation devez-vous connaitre ?\Objective-C\objective c
+[Geek] Quel quartier de Tokyo est célèbre pour ses nombreuses boutiques d'électroniques ?\Akihabara
+[Geek] Quel est le moteur de recherche sur le Web développé par Microsoft ?\Bing
+[Geek] Comment s'appelle la console succédant à la Wii ?\Wii U
+[Geek] Dans quelle ville américaine a lieu chaque année le Consumer Electronics Show ?\Las Vegas
+[Geek] Quel est le successeur du lapin électronique Nabaztag ?\Le Karotz\karotz
+[Geek] Quel est le nom de la compagnie qui a développé le jeu Angry Birds ?\Rovio
+[Geek] Quelle est la notation octale pour donner les droits de lecture, écriture et exécution sur un fichier é tous les utilisateurs ?\777
+[Geek] Quel est le nom terrestre de Superboy ?\Conner Kent\kent
+[Geek] Qui est le héros de la série de jeux vidéo Halo (en VO) ?\Master Chief
+[Geek] Quelle société développe le navigateur web Internet Explorer ?\Microsoft
+[Geek] En quelle année est sorti le premier iPhone ?\2007
+[Geek] De quoi le terme "MP3" est-il l'abréviation ?\MPEG-1/2 audio layer 3\mpeg 1 2 audio layer 3\
+[Geek] Quelle addresse IPv6 est associée le nom "localhost" ?\::1
+[Geek] Quelle est la balise HTML pour insérer un retour à la ligne ?\</br>\<br>\br
+[Geek] Quel est le nom utilisé par la compagnie Logitech pour le marché japonais ?\Logicool
+[Geek] Avec Sergey Brin, qui est l'autre fondateur de Google ?\Larry Page\Page
+[Geek] Combien de roues possède un Segway ?\deux\2
+[Geek] Quel était le slogan d'Apple entre 1997 et 2002 ?\Think different
+[Geek] Quel test permet de déterminer si on discute avec un humain ou une intelligence artificielle ?\Le test de Turing\test turing\turing
+[Geek] Quelle compagnie fabrique le smartphone Nexus S ?\Samsung
+[Geek] Comment s'appelle le nouveau HTC ?\HTC One\one
+[Geek] De quel pays viennent les Lego ?\Du Danemark\le danemark\danemark
+[Geek] Dans quelle ville se situe le siège social de Google ?\Mountain View
+[Geek] Packard Bell est une filiale de quelle entreprise ?\Acer
+[Geek] Dans quelle ville se situe le siège social d'Apple ?\Cupertino
+[Geek] Qui est le PDG fondateur de l'entreprise informatique Dell ?\Michael Dell\michael
+[Geek] Quelle était la première extension de WOW ?\The Burning Crusade\burning crusade
+[Geek] Quelle commande Unix permet d'afficher, entre autres, l'adresse IP de la machine ?\Ifconfig
+[Geek] Quel fabricant de consoles à conçu la Jaguar ?\Atari
+[Geek] Quel est le nom de l'interface graphique de Windows Phone 7 ?\Metro
+[Geek] Quel est le nom du chien robot développé par Sony ?\AIBO
+[Geek] Quel est le nom du navigateur web développé par Amazon et présent pour la première fois dans le Kindle Fire ?\Silk
+[Geek] Quel est le message officiel lié au code erreur HTTP 418 ?\I'm a teapot
+[Geek] A quelle adresse IPv4 est associée le nom "localhost" ?\127.0.0.1
+[Geek] Quel langage informatique sert à effectuer des opérations sur des bases de données ?\SQL
+[Geek] Que signifie HTC ?\High Tech Computer
+[Geek] Quel hacker a dévérouillé la fonction téléphonique de l'iPhone ?\Geohot
+[Geek] Avec Bill Gates, qui est l'autre fondateur de Microsoft ?\Paul Allen\allen
+[Geek] 3N QU3L 14N6463 357 3CR173 C3773 QU35710N ?\1337 5P34k\leet speak
+[Geek] Quel est le pseudonyme de Christopher Poole, créateur de 4chan ?\Moot
+[Geek] Quelle est la nationalité de Samsung ?\Coréenne\coreenne
+[Geek] En quelle année a été lancé Facebook ?\2004
+[Geek] Le nom de la société Archos est l'anagramme de celui de son créateur et actuel PDG, quel est le nom de cet entrepreneur ?\Henri Crohas\crohas
+[Geek] Comment s'appelle la mascotte de Linux ?\Tux
+[Geek] Au Japon, comment appelle-t-on une personne monomaniaque souvent coupée du monde ?\Un otaku\otaku
+[Geek] Que signifie LG ?\Lucky Goldstar
+[Geek] Quel est le nom de code de Windows Phone 7.5 ?\Mango
+[Geek] "haut haut bas bas gauche droite gauche droite B A", qu'est-ce que c'est ?\Le code Konami\code konami
+[Geek] Comment s'appelle le service de messagerie proposé par Google ?\Gmail
+[Geek] Quel fut le premier modèle de BlackBerry à proposer un écran tactile ?\Storm
+[Geek] Que signifie le sigle DTS en codage audiophonique ?\Digital Theater System
+[Geek] Quel était le surnom de la version 1.6 d'Android ?\Donut
+[Geek] Qui écrivait chaque semaine la Chronique du Week-end pour Le Journal du Geek ?\Lâm Hua\lam hua\hua
+[Geek] Quel est le débit (en Mo/s) maximum théorique de la norme USB 3.0 ?\600
+[Geek] De quel pays est originaire la compagnie Logitech ?\Suisse
+[Geek] Convertir 42 en hexadécimal.\2A
+[Geek] Dans Star Wars, quel est le nom de la mère d'Anakin Skywalker ?\Shmi
+[Geek] Quelle est la définition en pixels d'un écran qHD ?\960x540
+[Geek] Quel est le concurrent européen du système GPS ?\Galileo
+[Geek] Quel moteur de recherche est l'équivalent du Google chinois ?\Baidu
+[Geek] Quel langage informatique a été créé par James Gosling ?\Java
+[Geek] Quelle entreprise est spécialisée dans la conception et la production de matériel de refroidissement pour PC ?\Noctua
+[Geek] Quel rappeur américain a créé une marque de casques audio et de haut-parleurs nommée Beats ?\Dr. Dre\dr dre\dre
+[Geek] Que signifie SSD dans le monde du stockage de données ?\Solid-State Drive\Solid state drive
+[Geek] Quel est le premier épisode de la série des "Tales of" de Namco ?\Tales of Phantasia
+[Geek] Comment s'appelle le célèbre magazine de jeux vidéo japonais disponible en quatre versions : Weekly, Playstation, Xbox et Wii+DS ?\Famitsu
+[Geek] Quel est le mode de difficulté maximale dans le jeu Wolfenstein 3D ?\I'm Death incarnate!
+[Geek] Quel est le nom du personnage principal du jeu Kid Icarus ?\Pit
+[Geek] Quelle est la profession de Phoenix Wright dans le jeu du même nom ?\Avocat
+[Geek] En quelle année est sorti le jeu Tetris ?\1984
+[Geek] Contre quelle espèce les humains luttent-ils dans les jeux Gears of War ?\Les Locustes\locustes
+[Geek] Comment s'appelle un Koopa Troopa dont la carapace possède une paire d'ailes dans Mario ?\Un Paratroopa\paratroopa
+[Geek] De quelle couleur sont les champignons 1-up dans Mario ?\verts\vert\verte
+[Geek] Dans lequel des Metal Gear Solid le joueur incarne-t-il Big Boss ?\Snake Eater
+[Geek] Quelle société fabrique les iPod, iPad, iPhone et Mac Mini d'Apple ?\Foxconn
+[Geek] Quelle est la couleur de fond du logo des flux RSS ?\Orange
+[Geek] Quel est le nom du personnage que l'on incarne dans le jeu Mirror's Edge ?\Faith
+[Geek] Dans quelle ville sous-marine se déroule le jeu BioShock ?\Rapture
+[Geek] Quel personnage contrôle-t-on dans le jeu Halo: Reach ?\Noble Six
+[Geek] Quelle société est connue pour avoir développé les jeux Crash Bandicoot, Jak and Daxter et Uncharted ?\Naughty Dog
+[Geek] Quel studio de développement conçoit les jeux de la série Gran Turismo ?\Polyphony Digital
+[Geek] Quel est le métier de Max Payne ?\Policier
+[Geek] Combien le jeu Team Fortress 2 comporte-t-il de classes ?\neuf\9
+[Geek] Quel microprocesseur fut le premier à franchir la barre de 1GHz ?\Athlon
+[Geek] Quel acteur américain a prêté son visage et sa voix au héros du jeu Brütal Legend\Jack Black\black
+[Geek] Quel est le nom de la machine virtuelle chargée d'exécuter les applications dans le système d'exploitation Android de Google ?\Dalvik
+[Geek] Quelle est la nationalité de Lara Croft ?\Anglaise
+[Geek] Quelle société édite le jeu Call of Duty : Modern Warfare 3 ?\Activision
+[Geek] Comment s'appelle la version de la Playstation permettant de programmer des jeux et des applications ?\Net Yaroze
+[Geek] Quelle fut la toute première console de jeu vidéo ?\L'Odyssey\odyssey\l odyssey
+[Geek] Comment s'intitule le premier jeu de la série Zelda sorti sur Game Boy ?\Link's Awakening
+[Geek] Quelle est la nationalité de Nokia ?\Finlandaise\finlandais
+[Geek] Quelle est la langue des Sims ?\Simlish
+[Geek] Dans quelle série de jeux vidéo l'humanité est-elle en guerre avec l'Alliance Covenante ?\Halo
+[Geek] Quel est le prénom de la soeur de Chris Redfield dans la série des Resident Evil ?\Claire
+[Geek] Dans quel jeu dirige-t-on un personnage doté de super-pouvoirs électriques ?\InFAMOUS
+[Geek] Quel studio suédois a développé Minecraft ?\Mojang
+[Geek] Quel jeu a été élu Jeu de l'année aux Video Games Awards de 2011 ?\Skyrim
+[Geek] Quel concepteur de jeux est notamment à l'origine de Doom et Quake ?\John Romero\romero
+[Geek] Sur quelle console est sorti le jeu de rythme Elite Beat Agents ?\Nintendo DS\ds
+[Geek] Qui est l'ennemi juré de Sonic ?\Le docteur Robotnik\docteur robotnik\robotnik
+[Geek] Les versions de la distribution GNU/Linux de Debian empruntent leur nom aux personnages de quel film d'animation ?\Toy Story
+[Geek] Quelle console avait pour logo une spirale bleue ?\Dreamcast
+[Geek] Quelle société développe la plate-forme .NET ?\Microsoft
+[Geek] Completez le nom de ce fameux weblog : I Can Has..?\Cheezburger?\cheezburger ?
+[Geek] Quel système d'arcade a été développé conjointement par Nintendo, Sega et Namco, et présenté pour la première fois en 2002 ?\Triforce
+[Geek] Quelle série de jeux vidéo se déroule souvent dans la ville de Raccoon City ou ses environs ?\Resident Evil
+[Geek] Quelle société de développement de jeux vidéo est à l'origine des jeux de la série Pokémon ?\Game Freak
+[Geek] Quel est le nom de la libéllule dans Spyro le dragon ?\Sparx
+[Geek] Quel est le nom de la plate-forme de téléchargement de jeu pour la console Wii ?\WiiWare
+[Geek] Quel est le lien familial entre Kratos et le dieu Zeus dans God of War ?\Père et fils\pere et fils\fils et père\fils et pere
+[Geek] Sur quelle touche du clavier doit-on appuyer pour rafraîchir une page web ?\F5
+[Geek] Comment s'appellent les antagonistes dans le jeu The World Ends with You, sur Nintendo DS ?\Les reapers\reapers
+[Geek] De quelle couleur sont les cheveux des Lemmings ?\Verts\vert
+[Geek] Comment s'appelle l'ennemi principal de la série The Legend of Zelda ?\Ganondorf
+[Geek] Quelle est la couleur du fond du logo Atari ?\rouge
+[Geek] En quelle année est sorti le premier jeu FIFA ?\1993
+[Geek] Quel est le slogan de Google ?\Don't be evil\don t be evil
+[Geek] Defense of the Ancients est une célèbre carte personnalisée pour quel jeu ?\Warcraft III
+[Geek] Sur quelle console est sorti le jeu Jet Set Radio Future ?\Xbox
+[Geek] Terminez le nom de ce jeu sorti sur Megadrive en 1991 : ToeJam and ?\Earl
+[Geek] Qui a fondé Myspace avec Tom Anderson ?\Chris Dewolfe\dewolfe
+[Geek] En quelle année Steve Jobs est-il mort ?\2011
+[Geek] A quel âge Steve Jobs est-il mort ?\56 ans\56
+[Geek] Quel logiciel d'émulation pour PC a pour but de reproduire fidèlement le fonctionnement des jeux et des systèmes d'arcade ?\MAME
+[Geek] Que signifie MAME, un logiciel d'émulation pour PC ?\Multiple Arcade Machine Emulator
+[Geek] Comment s'appelle le module qui se connectait à la manette de la Nintendo 64 pour la faire vibrer ?\Le Rumble Pak\rumble pak
+[Geek] Que signifie "QR" des codes QR ?\Quick Response
+[Geek] Quel est le vrai nom du fantôme rouge dans Pacman ?\Oikake
+[Geek] Quel est le vrai nom du fantôme Rose dans Pacman ?\Machibuse
+[Geek] Quel est le vrai nom du fantôme bleu dans Pacman ?\Kimagure
+[Geek] Quel est le vrai nom du fantôme orange dans Pacman ?\Otoboke
+[Geek] Dans le jeu Kingdom Hearts, qui est le roi du royaume ?\Mickey
+[Geek] Quelles sont les deux races ennemies dans le MMORPG Aion ?\Les Elyséens et les Asmodiens\les elyseens et les asmodiens\elyseens et asmodiens\l\elyséens et asmodiens
+[Geek] Dans quel domaine est spécialisé l'entreprise Noctua ?\Le refroidissement de PC\refroidissement de pc
+[Geek] Qui a créé la musique d'ambiance ainsi que les effets sonores de Quake sorti en 1996 ?\Trent Reznor\reznor
+[Geek] Dans quelle ville américaine se déroule le jeu Prototype ?\New-York\new york
+[Geek] Quel jeu a été interdit en Chine pour cause de "représentation du Tibet en tant que pays indépendant" ?\Football Manager
+[Geek] Quel est le nom de l'OS mobile open source développé par Intel et Samsung, remplaçant MeeGo ?\Tizen
+[Geek] Quel société a développé le jeu World Of Warcraft ?\Blizzard Entertainment\Blizzard
+[Geek] Quel société a développé le jeu Diablo III ?\Blizzard Entertainment\Blizzard
+[Geek] En programmation, pratique qui consiste à réduire le temps d'exécution d'une foncton, l'espace occupé par les données et le programmes, ou la consommation d'énergie ?\Optimisation\l'optimisation\l optimisation
+[Geek] Gateway est une filiale de quelle entreprise ?\Acer
+[Geek] E-TEN est une filiale de quelle entreprise ?\Acer
+[Geek] eMachine est une filiale de quelle entreprise ?\Acer
+[Geek] Quand a été créé Acer ?\1976
+[Geek] Qui est le fondateur de Acer ?\Stan Shih\shih
+[Geek] Quel est le slogan de Acer ?\Explore beyond limits
+[Geek] Dans quelle ville de Taïwan se trouve le siège de Acer ?\Xizhi
+[Geek] S3 Graphics est une filiale de quelle entreprise ?\HTC
+[Geek] Que produit l'entreprise S3 Graphics ?\Des cartes graphiques\cartes graphiques\
+[Geek] En quelle année a été créée l'entreprise HTC ?\1997
+[Geek] En quelle année a été créée l'entreprise Asus ?\1989
+[Geek] Que signifie USB ?\Universal Serial Bus
+[Geek] A partir de quelle valeur de l'IMC parle-t-on d'obésité morbide ?\40
+[Geek] Comment s'appelle l'unité de la vitesse de déplacement d'une souris ?\Le mickey\mickey
+[Geek] Comment appelle-t-on une publicité indésirable sur Internet ?\Un spam\spam
