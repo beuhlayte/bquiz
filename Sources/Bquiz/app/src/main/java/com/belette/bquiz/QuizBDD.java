@@ -172,7 +172,10 @@ public class QuizBDD {
         return date;
     }
     public Questions questionAleatoire(int alea, int th) {
-        String requete = "SELECT idQuestions, question, theme, dateModif FROM Questions WHERE theme = '" + th + "' ORDER BY random() LIMIT 1 ;";
+        String requete;
+        if (th == 0) { requete = "SELECT idQuestions, question, theme, dateModif FROM Questions WHERE 1 ORDER BY random() LIMIT 1 ;"; }
+        else { requete = "SELECT idQuestions, question, theme, dateModif FROM Questions WHERE theme = '" + th + "' ORDER BY random() LIMIT 1 ;"; }
+
         Cursor c = bdd.rawQuery(requete,null);
         //Cursor c = bdd.query(TABLE_QUESTIONS, new String[] { COL_IDQUESTIONS, COL_QQUESTION, COL_QTHEME, COL_QDATEMODIF }, COL_IDQUESTIONS + " LIKE " + alea, null, null, null, null,null);
         return cursorToQuestions(c);
@@ -192,6 +195,7 @@ public class QuizBDD {
     }
 
     public int idThemes(String th) {
+        if (th.equals("general")) { return 0; }
         String requete = "SELECT idThemes FROM Themes WHERE theme ='"+ th +"';";
         Cursor c = bdd.rawQuery(requete,null);
         if (c.getCount() == 0) {
@@ -203,7 +207,9 @@ public class QuizBDD {
     }
 
     public int nbQuestion(int th) {
-        String requete = "SELECT count(*) FROM Questions WHERE theme = "+ th +";";
+        String requete;
+        if (th == 0) { requete = "SELECT count(*) FROM Questions WHERE 1;"; }
+        else { requete = "SELECT count(*) FROM Questions WHERE theme = "+ th +";"; }
         Cursor c = bdd.rawQuery(requete,null);
         if (c.getCount() == 0) {
             c.close();
@@ -243,7 +249,7 @@ public class QuizBDD {
     }
 
     public Boolean IsReponseQuestion(int idquestion, String reponse) {
-        List<String> reponses = new ArrayList();
+      //  List<String> reponses = new ArrayList();
         reponse = "'" + reponse + "'";
         String requete = "SELECT reponse FROM Reponses WHERE question = " + idquestion + " and " + replaceAccents("reponse") + " like " + replaceAccents(reponse);
         Cursor c = bdd.rawQuery(requete, null);

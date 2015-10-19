@@ -18,8 +18,6 @@ public class ActiviteQuiz extends AppCompatActivity {
     String theme;
     int idTheme, nbQuestions;
     Questions question;
-    //String reponses[];
-    //QuizBDD bdd = new QuizBDD(this);
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         QuizBDD bdd = new QuizBDD(this);
@@ -45,7 +43,6 @@ public class ActiviteQuiz extends AppCompatActivity {
             }
         });
 
-        int numeroDeLaLigne = 0;
         //On récupère les données de l'activité des thèmes
         Bundle extras = getIntent().getExtras();
         if (extras != null) {
@@ -99,7 +96,7 @@ public class ActiviteQuiz extends AppCompatActivity {
         TextView tVerif = (TextView) (findViewById(R.id.tVerif));
         String reponse = eReponse.getText().toString().toLowerCase();
         int i = 0;
-        if (reponses.contains(reponse)) {
+        if (bdd.IsReponseQuestion(question.getIdQuestion(),reponse)) {
             tVerif.setText("Bonne réponse !");
         }
         else {
